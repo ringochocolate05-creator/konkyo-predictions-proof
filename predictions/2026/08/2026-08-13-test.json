@@ -1,0 +1,19 @@
+{
+  "generated_at": "2026-08-13T07:18:05.411229+00:00",
+  "commit_date": "2026-08-13-test",
+  "count": 1,
+  "note": "このファイルのコミットタイムスタンプが「レース開始前に予想が確定していた」証拠です。hash_sha256 は race_date/stadium_id/race_no/bet_type/combination/ev/published_at を JSON シリアライズした SHA-256 です。",
+  "predictions": [
+    {
+      "prediction_id": 99999,
+      "race_date": "2026-08-13",
+      "stadium_id": 1,
+      "race_no": 1,
+      "bet_type": "3連単",
+      "combination": "1-2-3",
+      "ev": 1.25,
+      "published_at": "2026-08-13T08:00:00+00:00",
+      "hash_sha256": "7b4fe57f1f0a7a70a2470bc726318c5afd3b5bc7ef4b0cf2e4421d7e93307072"
+    }
+  ]
+}
